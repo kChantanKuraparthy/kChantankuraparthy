@@ -1,6 +1,6 @@
 <div>
     <h2> Hi 👋 I'm Chantan Kuraparthy.</h2>
-    <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/resumeheader.jpg" title="Ratnakar" alt="Ratnakar" width="1000" height="200"/>
+    <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/ETL_Logo.jpg" title="Ratnakar" alt="Ratnakar" width="1000" height="200"/>
 </div>
 <div id="header" align="center" >
   <div id="badges">
