@@ -10,13 +10,14 @@
   </div>
 </div>
 
-### ✍️ Ratnakar Dev Quote
-Full Stack Developer:
-Jack of All Trades, Master of None
+### ✍️ Chantan Quote
+Database Developer
+ETL Developer
+Reporting Developer
 Often Times <strong>Better than Master<strong>
 
 #### 💻 &nbsp; About Me :
-I am a Full Stack Software developer, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+I am a ETL and Database Software developer, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 
@@ -81,7 +82,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 </div>
 
 
-### ✍️ Ratnakar Acheivements
+### ✍️ Chantan Acheivements
 <div id="header" align="left" >
   <div id="badges">
     <a href="https://www.hackerrank.com/ratnakar_j5?badge=sql&stars=2&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin">
