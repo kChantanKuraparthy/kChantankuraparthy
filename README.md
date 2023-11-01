@@ -1,6 +1,6 @@
 <div>
     <h2> Hi 👋 I'm Chantan Kuraparthy.</h2>
-    <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/ETL_Logo.jpg" title="Ratnakar" alt="Ratnakar" width="1000" height="200"/>
+    <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/ETL_Logo.jpg" title="Ratnakar" alt="Ratnakar" width="700" height="200"/>
 </div>
 <div id="header" align="center" >
   <div id="badges">
@@ -47,10 +47,11 @@ I am a ETL and Database Software developer, Author, Speaker & open source tech e
 
 #### :hammer_and_wrench: Backend :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" alt="SQL" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="maven" alt="maven" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/mssqlserver.png" title="MS SQL Server" alt="SQL" width="100" height="100"/>&nbsp;
+    
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/oracle.png" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/azuresql.png" title="Azure SQL" alt="Azure SQl" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/googleBigQuery.png" title="Google Big Query" alt="Google Big Query" width="100" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/images.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
