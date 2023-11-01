@@ -47,7 +47,7 @@ I am a ETL and Database Software developer, Author, Speaker & open source tech e
 
 #### :hammer_and_wrench: Backend :
 <div>
-  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/mssqlserver.png" title="MS SQL Server" alt="SQL" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/mssqlserver.png" title="MS SQL Server" alt="SQL" width="150" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/oracle.png" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/azuresql.png" title="Azure SQL" alt="Azure SQl" width="200" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/googleBigQuery.png" title="Google Big Query" alt="Google Big Query" width="200" height="100"/>&nbsp;
