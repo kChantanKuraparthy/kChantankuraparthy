@@ -1,5 +1,5 @@
 <div>
-    <h2> Hi 👋 I'm Ratnakar J.</h2>
+    <h2> Hi 👋 I'm Chantan Kuraparthy.</h2>
     <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/resumeheader.jpg" title="Ratnakar" alt="Ratnakar" width="1000" height="200"/>
 </div>
 <div id="header" align="center" >
