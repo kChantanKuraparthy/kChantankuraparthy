@@ -51,7 +51,7 @@ I am a ETL and Database Software developer, Author, Speaker & open source tech e
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/oracle.png" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/azuresql.png" title="Azure SQL" alt="Azure SQl" width="200" height="100"/>&nbsp;
   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/googleBigQuery.png" title="Google Big Query" alt="Google Big Query" width="200" height="100"/>&nbsp;
-  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/images.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/Snowflake.png" title="Snowflake"  alt="Snowflake" width="80" height="150"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Material Ui" alt="Material Ui" width="40" height="40"/>&nbsp;
