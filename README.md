@@ -21,12 +21,13 @@ I am a ETL and Database Software developer, Author, Speaker & open source tech e
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 
-#### :hammer_and_wrench: Front End :   
+#### :hammer_and_wrench: ETL (Extract Transformation Load) :   
 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/IPC.jpeg" title="Angular" alt="Angular" width="80" height="40"/>&nbsp;
+       <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/iics.png.jpeg" title="Angular" alt="Angular" width="80" height="40"/>&nbsp;
+     <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/SSIS.jpeg" title="React" alt="React" width="80" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     
 </div>
 
