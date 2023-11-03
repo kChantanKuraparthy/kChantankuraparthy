@@ -25,7 +25,7 @@ I am a ETL and Database Software developer, Author, Speaker & open source tech e
 
 <div>
    <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/IPC.jpeg" title="Power Center" alt="Power Center" width="80" height="40"/>&nbsp;
-       <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/iics.png.jpeg" title="Angular" alt="Angular" width="80" height="40"/>&nbsp;
+       <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/IICS-1.jpeg.png.jpeg" title="Angular" alt="Angular" width="80" height="40"/>&nbsp;
      <img src="https://github.com/kChantanKuraparthy/kChantankuraparthy/blob/main/SSIS.jpeg" title="React" alt="React" width="80" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     
